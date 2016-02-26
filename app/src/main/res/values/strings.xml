@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="action_settings">Settings</string>
+
+    http://developer.android.com/guide/topics/ui/controls/spinner.html
+    <string-array name="ball_size">
+        <item>Small Ball</item>
+        <item>Medium Ball</item>
+        <item>Large Ball</item>
+    </string-array>
+
+    <string-array name="paddle_size">
+        <item>Beginner Paddle</item>
+        <item>Intermediate Paddle</item>
+        <item>Hard Paddle</item>
+    </string-array>
+</resources>
